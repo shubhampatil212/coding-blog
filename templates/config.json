@@ -1,0 +1,17 @@
+{
+  "params":{
+    "local_server": "True",
+    "local_uri": "mysql+pymysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql+pymysql://root:@localhost/codingthunder",
+    "fb_url": "https://facebook.com/codingthunder",
+    "tw_url": "https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/shubhampatil212",
+    "blog_name": "Coding Thunder",
+    "gmail-user":"cybersleuth23@gmail.com",
+    "gmail-password": "ture gaqd lgbi otzu\n",
+    "about_text": "Hi i am Shubham and I am learning flask",
+    "no_of_posts": 3,
+    "admin_user": "admin",
+    "admin_password": "root"
+  }
+}
